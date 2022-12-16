@@ -151,50 +151,50 @@
     },
     {
         "position": 26,
+        "user_id": "19d50b08b511e807e2204ce4fa439318",
+        "name": "TOPP STALLMAN",
+        "points": 90
+    },
+    {
+        "position": 27,
         "user_id": "378ce2fb44758658c2b209862289ce79",
         "name": "NYSKAPENDE KLOVN",
         "points": 82
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "ab49a3cd6fd2913da14763d08f99cb35",
         "name": "sharpsyD",
         "points": 80
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "a9a1df27336664b4b6fa562d56173f31",
         "name": "GULLKANTET PROGRAMMERER",
         "points": 80
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "e40d3ab60cbb6950391249ca018e0544",
         "name": "roys",
         "points": 80
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "87949f2aa859f47da07091d847c700e5",
         "name": "0xBACE",
         "points": 80
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "dfa7db38b0862aeeba54ac5e48536beb",
         "name": "moldevort",
         "points": 80
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "05ce55337dcbc9317d05d21487c3a322",
         "name": "KUL ARTIST",
-        "points": 80
-    },
-    {
-        "position": 33,
-        "user_id": "19d50b08b511e807e2204ce4fa439318",
-        "name": "TOPP STALLMAN",
         "points": 80
     },
     {
