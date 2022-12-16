@@ -565,38 +565,38 @@
     },
     {
         "position": 95,
+        "user_id": "679209d00898825d5b78b83d90a8e0a1",
+        "name": "HarryHole",
+        "points": 40
+    },
+    {
+        "position": 96,
         "user_id": "ba9dd6b9c8fa6712f589dabda006748b",
         "name": "FORULEMPET HACKTIVIST",
         "points": 32
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "cc791176fc14565e112bc57b7dd6ed18",
         "name": "NAKEN AGENT",
         "points": 30
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "5cfa41ee0b892935f6fb66a273e44da5",
         "name": "Rex",
         "points": 30
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "546e3632a497bc704e996e24c8ea7b06",
         "name": "RYDDIG SPION",
         "points": 30
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "530a70adeefe045e2392de0d8179f33b",
         "name": "Hilfur",
-        "points": 30
-    },
-    {
-        "position": 100,
-        "user_id": "95996879fa60883577462d0f65d59465",
-        "name": "MOTIVERT KLOVN",
         "points": 30
     }
 ]
