@@ -61,20 +61,20 @@
     },
     {
         "position": 11,
+        "user_id": "aea80b015002a120189524438c241369",
+        "name": "ARTIG SPION",
+        "points": 110
+    },
+    {
+        "position": 12,
         "user_id": "f95e0b644d1f711137317ee984ea536e",
         "name": "fjellape",
         "points": 100
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "1ce1806b159c5a01b9b468d8ae36e93e",
         "name": "varcella",
-        "points": 100
-    },
-    {
-        "position": 13,
-        "user_id": "aea80b015002a120189524438c241369",
-        "name": "ARTIG SPION",
         "points": 100
     },
     {
