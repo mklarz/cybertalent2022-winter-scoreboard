@@ -121,26 +121,26 @@
     },
     {
         "position": 21,
+        "user_id": "ff813bcb2b1c1709986a26d09e25fd6f",
+        "name": "ARBEIDSLEDIG DRAPER",
+        "points": 91
+    },
+    {
+        "position": 22,
         "user_id": "8b145f36c4f47c960950940f5bfddcbc",
         "name": "masterpi",
         "points": 90
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
         "name": "Magnus",
         "points": 90
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "e68dd2c270e03825ac1e08137bc41f56",
         "name": "ta@0x90909090",
-        "points": 90
-    },
-    {
-        "position": 24,
-        "user_id": "ff813bcb2b1c1709986a26d09e25fd6f",
-        "name": "ARBEIDSLEDIG DRAPER",
         "points": 90
     },
     {
