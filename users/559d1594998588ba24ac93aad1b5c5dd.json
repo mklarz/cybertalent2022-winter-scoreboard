@@ -1,12 +1,12 @@
 {
-    "position": 28,
+    "position": 22,
     "user_id": "559d1594998588ba24ac93aad1b5c5dd",
-    "name": "E\ufffd",
-    "points": 90,
+    "name": "Hello world",
+    "points": 91,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 10,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 12,
         "3.2. Utfordringer middels": 0,
         "4. Skjulte flagg": 0
     }
