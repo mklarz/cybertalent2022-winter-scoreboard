@@ -2,12 +2,12 @@
     "position": 10,
     "user_id": "b6984a3df39538bb76d770bec9cb9cba",
     "name": "KUNNSKAPSRIK PWNER",
-    "points": 115,
+    "points": 116,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 30,
         "3.1. Utfordringer lett": 38,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 8,
         "4. Skjulte flagg": 50
     }
 }
