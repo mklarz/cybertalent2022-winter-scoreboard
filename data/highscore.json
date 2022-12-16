@@ -583,20 +583,20 @@
     },
     {
         "position": 98,
+        "user_id": "8afab92bc3c2b032c8f5bffdf9f3c57c",
+        "name": "bishop",
+        "points": 40
+    },
+    {
+        "position": 99,
         "user_id": "ba9dd6b9c8fa6712f589dabda006748b",
         "name": "FORULEMPET HACKTIVIST",
         "points": 32
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "cc791176fc14565e112bc57b7dd6ed18",
         "name": "NAKEN AGENT",
-        "points": 30
-    },
-    {
-        "position": 100,
-        "user_id": "5cfa41ee0b892935f6fb66a273e44da5",
-        "name": "Rex",
         "points": 30
     }
 ]
