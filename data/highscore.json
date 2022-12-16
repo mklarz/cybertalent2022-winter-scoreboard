@@ -109,45 +109,45 @@
     },
     {
         "position": 19,
+        "user_id": "760c040a0236df53a1036ab7b071c41e",
+        "name": "duniel",
+        "points": 100
+    },
+    {
+        "position": 20,
         "user_id": "afc8f69ebaac148eb9cd8f9971316072",
         "name": "Ullern",
         "points": 100
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "e9d0ff2c21a31aba6749773d363bfa05",
         "name": "KREVENDE SPION",
         "points": 100
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 100
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "559d1594998588ba24ac93aad1b5c5dd",
         "name": "Hello world",
         "points": 94
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "01e7d8dfa9eeb01ddd221ac649e384ca",
         "name": "Taschmex",
         "points": 94
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "ff813bcb2b1c1709986a26d09e25fd6f",
         "name": "ARBEIDSLEDIG DRAPER",
         "points": 92
-    },
-    {
-        "position": 25,
-        "user_id": "760c040a0236df53a1036ab7b071c41e",
-        "name": "duniel",
-        "points": 90
     },
     {
         "position": 26,
