@@ -31,26 +31,26 @@
     },
     {
         "position": 6,
+        "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
+        "name": "decoy",
+        "points": 130
+    },
+    {
+        "position": 7,
         "user_id": "788f458d5634217426e4153888731446",
         "name": "bjornmorten",
         "points": 125
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "29a287c0186c88094b95f491bf316390",
         "name": "NAKEN PERSON",
         "points": 120
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
         "name": "FOKUSERT AGENT",
-        "points": 120
-    },
-    {
-        "position": 9,
-        "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
-        "name": "decoy",
         "points": 120
     },
     {
