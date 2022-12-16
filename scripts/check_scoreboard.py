@@ -6,6 +6,7 @@ import glob
 import requests
 from urllib3.util.retry import Retry
 from requests.adapters import HTTPAdapter
+from random_user_agent.user_agent import UserAgent
 from bs4 import BeautifulSoup
 
 # dirty and quick script for tracking the highscore. buy me a beer :))
@@ -29,7 +30,7 @@ retries = Retry(
 )
 s = requests.Session()
 s.mount(HIGHSCORE_URL, HTTPAdapter(max_retries=retries))
-r = s.get(HIGHSCORE_URL)
+r = s.get(HIGHSCORE_URL, headers={"User-Agent": user_agent_rotator.get_random_user_agent()})
 
 soup = BeautifulSoup(r.content, 'html.parser')
 
