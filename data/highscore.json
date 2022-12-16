@@ -145,44 +145,44 @@
     },
     {
         "position": 25,
+        "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
+        "name": "FOKUSERT AGENT",
+        "points": 90
+    },
+    {
+        "position": 26,
         "user_id": "378ce2fb44758658c2b209862289ce79",
         "name": "NYSKAPENDE KLOVN",
         "points": 82
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "ab49a3cd6fd2913da14763d08f99cb35",
         "name": "sharpsyD",
         "points": 80
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "a9a1df27336664b4b6fa562d56173f31",
         "name": "GULLKANTET PROGRAMMERER",
         "points": 80
     },
     {
-        "position": 28,
+        "position": 29,
         "user_id": "e40d3ab60cbb6950391249ca018e0544",
         "name": "roys",
         "points": 80
     },
     {
-        "position": 29,
+        "position": 30,
         "user_id": "87949f2aa859f47da07091d847c700e5",
         "name": "0xBACE",
         "points": 80
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "dfa7db38b0862aeeba54ac5e48536beb",
         "name": "moldevort",
-        "points": 80
-    },
-    {
-        "position": 31,
-        "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
-        "name": "FOKUSERT AGENT",
         "points": 80
     },
     {
@@ -283,44 +283,44 @@
     },
     {
         "position": 48,
+        "user_id": "d4ff0bbe7488daf8a689c99ba2bdccb5",
+        "name": ".F1nny",
+        "points": 60
+    },
+    {
+        "position": 49,
         "user_id": "2a0d34539af6c7757ffc493c9ccfc7a7",
         "name": "hLudde",
         "points": 52
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "2b36694c1beec337fa90b686fc680b80",
         "name": "Natu",
         "points": 50
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "8496a9f1f8f3655b3b25349e3da6db9c",
         "name": "Sithis",
         "points": 50
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "4a8ffe638017c27e86ad47fa04044fe3",
         "name": "toffe",
         "points": 50
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "ae29b19aac19683f822aee1dc51fd408",
         "name": "Blixat",
         "points": 50
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "5d2659b389037688404db4613a91699e",
         "name": "nicw",
-        "points": 50
-    },
-    {
-        "position": 54,
-        "user_id": "d4ff0bbe7488daf8a689c99ba2bdccb5",
-        "name": ".F1nny",
         "points": 50
     },
     {
