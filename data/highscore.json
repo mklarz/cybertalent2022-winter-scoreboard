@@ -43,87 +43,87 @@
     },
     {
         "position": 8,
+        "user_id": "559d1594998588ba24ac93aad1b5c5dd",
+        "name": "Segmentation fault (core dumped)",
+        "points": 146
+    },
+    {
+        "position": 9,
         "user_id": "501cff0dda417c5a36be81f83bdb890a",
         "name": "skandix",
         "points": 130
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "6b927ff69b9336c01b1dd65119199845",
         "name": "Johnny Fiama",
         "points": 130
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "32efad132b8c0be8d73cfcfa985a7cb2",
         "name": "langemyh",
         "points": 130
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
         "name": "decoy",
         "points": 130
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "d893d0eedbc814b41c4d06de39a54ca6",
         "name": "jole@rebug",
         "points": 130
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "90ea3a3aa8a4785e6117943d21ced5df",
         "name": "L\u00f8va",
         "points": 128
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
         "name": "FOKUSERT AGENT",
         "points": 120
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
         "name": "Magnus",
         "points": 120
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "15d5402010ef86b35b7068df36a7e98c",
         "name": "bummie",
         "points": 120
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "afc8f69ebaac148eb9cd8f9971316072",
         "name": "Ullern",
         "points": 120
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "b6984a3df39538bb76d770bec9cb9cba",
         "name": "KUNNSKAPSRIK PWNER",
         "points": 117
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
         "points": 110
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 110
-    },
-    {
-        "position": 21,
-        "user_id": "559d1594998588ba24ac93aad1b5c5dd",
-        "name": "Segmentation fault (core dumped)",
-        "points": 106
     },
     {
         "position": 22,
