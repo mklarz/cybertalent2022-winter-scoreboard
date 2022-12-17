@@ -79,26 +79,26 @@
     },
     {
         "position": 14,
+        "user_id": "15d5402010ef86b35b7068df36a7e98c",
+        "name": "bummie",
+        "points": 120
+    },
+    {
+        "position": 15,
         "user_id": "90ea3a3aa8a4785e6117943d21ced5df",
         "name": "L\u00f8va",
         "points": 118
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "b6984a3df39538bb76d770bec9cb9cba",
         "name": "KUNNSKAPSRIK PWNER",
         "points": 117
     },
     {
-        "position": 16,
+        "position": 17,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
-        "points": 110
-    },
-    {
-        "position": 17,
-        "user_id": "15d5402010ef86b35b7068df36a7e98c",
-        "name": "bummie",
         "points": 110
     },
     {
@@ -283,56 +283,56 @@
     },
     {
         "position": 48,
+        "user_id": "aac5e53294494f9f9a1339cf6c9f4110",
+        "name": "TAFATT NERD",
+        "points": 80
+    },
+    {
+        "position": 49,
         "user_id": "b35d100647de42004603e139c6d8fcbb",
         "name": "svindler",
         "points": 70
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "4572d03f16496d7edd9d6d7fc3ec1bc0",
         "name": "NAKEN PWNER",
         "points": 70
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "000f810d4b42651a94aa224b109a296b",
         "name": "skomario",
         "points": 70
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "622d9ab7080e9051fab5cdb6ec357f6c",
         "name": "KFK-1337",
         "points": 70
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "93d0f0c69795e6c71576c9b4fcf99ffc",
         "name": "maikroservice",
         "points": 70
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "88b0a9ba7358f622653f34115db7830b",
         "name": "VIMSETE NERD",
         "points": 70
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "4dad71f4c98470db0f3a06a17b6d5e70",
         "name": "KNU753N",
         "points": 70
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "f0f728f12971ca4ca7d157bf0754255e",
         "name": "NootNoot",
-        "points": 70
-    },
-    {
-        "position": 56,
-        "user_id": "aac5e53294494f9f9a1339cf6c9f4110",
-        "name": "TAFATT NERD",
         "points": 70
     },
     {
