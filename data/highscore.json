@@ -25,14 +25,14 @@
     },
     {
         "position": 5,
-        "user_id": "501cff0dda417c5a36be81f83bdb890a",
-        "name": "skandix",
-        "points": 130
+        "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
+        "name": "FORULEMPET REVERSER",
+        "points": 140
     },
     {
         "position": 6,
-        "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
-        "name": "FORULEMPET REVERSER",
+        "user_id": "501cff0dda417c5a36be81f83bdb890a",
+        "name": "skandix",
         "points": 130
     },
     {
@@ -289,32 +289,32 @@
     },
     {
         "position": 49,
+        "user_id": "88b0a9ba7358f622653f34115db7830b",
+        "name": "VIMSETE NERD",
+        "points": 70
+    },
+    {
+        "position": 50,
         "user_id": "2617736e4bba952a0545485bd2268914",
         "name": "0x55AA",
         "points": 62
     },
     {
-        "position": 50,
+        "position": 51,
         "user_id": "ba9dd6b9c8fa6712f589dabda006748b",
         "name": "FORULEMPET HACKTIVIST",
         "points": 62
     },
     {
-        "position": 51,
+        "position": 52,
         "user_id": "66eab6f46ca0bfa7c38835c1494d64bb",
         "name": "GAMMEL SLASK",
         "points": 60
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "49ae61f27236bc30ac9fb5b1260410de",
         "name": "MOTIVERT PERSON",
-        "points": 60
-    },
-    {
-        "position": 53,
-        "user_id": "88b0a9ba7358f622653f34115db7830b",
-        "name": "VIMSETE NERD",
         "points": 60
     },
     {
