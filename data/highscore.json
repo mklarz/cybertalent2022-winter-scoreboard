@@ -91,68 +91,68 @@
     },
     {
         "position": 16,
+        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
+        "name": "Ullern",
+        "points": 120
+    },
+    {
+        "position": 17,
         "user_id": "90ea3a3aa8a4785e6117943d21ced5df",
         "name": "L\u00f8va",
         "points": 118
     },
     {
-        "position": 17,
+        "position": 18,
         "user_id": "b6984a3df39538bb76d770bec9cb9cba",
         "name": "KUNNSKAPSRIK PWNER",
         "points": 117
     },
     {
-        "position": 18,
+        "position": 19,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
         "points": 110
     },
     {
-        "position": 19,
-        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
-        "name": "Ullern",
+        "position": 20,
+        "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
+        "name": "DYKTIG KODER",
         "points": 110
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "559d1594998588ba24ac93aad1b5c5dd",
         "name": "Hello world",
         "points": 106
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "44084af0251484f6b0e4ac071231dd25",
         "name": "MrFreddi007",
         "points": 102
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "378ce2fb44758658c2b209862289ce79",
         "name": "NYSKAPENDE KLOVN",
         "points": 102
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "f95e0b644d1f711137317ee984ea536e",
         "name": "fjellape",
         "points": 101
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "760c040a0236df53a1036ab7b071c41e",
         "name": "duniel",
         "points": 100
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "e9d0ff2c21a31aba6749773d363bfa05",
         "name": "KREVENDE SPION",
-        "points": 100
-    },
-    {
-        "position": 26,
-        "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
-        "name": "DYKTIG KODER",
         "points": 100
     },
     {
@@ -249,7 +249,7 @@
         "position": 42,
         "user_id": "2617736e4bba952a0545485bd2268914",
         "name": "0x55AA",
-        "points": 82
+        "points": 83
     },
     {
         "position": 43,
