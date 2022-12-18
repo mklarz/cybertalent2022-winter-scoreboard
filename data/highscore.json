@@ -121,20 +121,20 @@
     },
     {
         "position": 21,
+        "user_id": "2e9d167492a8245da1569047cba2fb4e",
+        "name": "SVETT STALLMAN",
+        "points": 120
+    },
+    {
+        "position": 22,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
         "points": 110
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
-        "points": 110
-    },
-    {
-        "position": 23,
-        "user_id": "2e9d167492a8245da1569047cba2fb4e",
-        "name": "SVETT STALLMAN",
         "points": 110
     },
     {
