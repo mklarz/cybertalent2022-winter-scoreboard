@@ -559,44 +559,44 @@
     },
     {
         "position": 94,
+        "user_id": "cd62d9ae6525d3b4680b7e0d06f8501e",
+        "name": "MSK",
+        "points": 50
+    },
+    {
+        "position": 95,
         "user_id": "82fbc33b8c46dfdc3a0adeedb28d37fc",
         "name": "BEBRILLET CYBERHELT",
         "points": 44
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "2f0ffbada832883dbd2f675555a42572",
         "name": "YDMYK GEEK",
         "points": 42
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "1933f8cfa05f666c574ada8723218be0",
         "name": "KREATIV ARTIST",
         "points": 41
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "ab6f433faebf7a044de4ed77135d6757",
         "name": "mutex",
         "points": 40
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "833214c9e299f1749bd3fc3c67055143",
         "name": "BaconWaffle",
         "points": 40
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "6038db846e9c36a2bc3713f2ee8662de",
         "name": "SgtSIGSEGV",
-        "points": 40
-    },
-    {
-        "position": 100,
-        "user_id": "d7aa620b420f6072b0df24c42b27739a",
-        "name": "marrekanin",
         "points": 40
     }
 ]
