@@ -61,26 +61,26 @@
     },
     {
         "position": 11,
+        "user_id": "15d5402010ef86b35b7068df36a7e98c",
+        "name": "bummie",
+        "points": 140
+    },
+    {
+        "position": 12,
         "user_id": "501cff0dda417c5a36be81f83bdb890a",
         "name": "skandix",
         "points": 130
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "32efad132b8c0be8d73cfcfa985a7cb2",
         "name": "langemyh",
         "points": 130
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
         "name": "decoy",
-        "points": 130
-    },
-    {
-        "position": 14,
-        "user_id": "15d5402010ef86b35b7068df36a7e98c",
-        "name": "bummie",
         "points": 130
     },
     {
