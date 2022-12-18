@@ -583,20 +583,20 @@
     },
     {
         "position": 98,
+        "user_id": "13883023b4775b66dda4b076bc460a45",
+        "name": "SLETT SNOK",
+        "points": 50
+    },
+    {
+        "position": 99,
         "user_id": "82fbc33b8c46dfdc3a0adeedb28d37fc",
         "name": "BEBRILLET CYBERHELT",
         "points": 44
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "2f0ffbada832883dbd2f675555a42572",
         "name": "YDMYK GEEK",
         "points": 42
-    },
-    {
-        "position": 100,
-        "user_id": "1933f8cfa05f666c574ada8723218be0",
-        "name": "KREATIV ARTIST",
-        "points": 41
     }
 ]
