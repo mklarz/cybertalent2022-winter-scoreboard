@@ -115,44 +115,44 @@
     },
     {
         "position": 20,
+        "user_id": "0ee19c0e47f19051d7c04f2d9a165646",
+        "name": "FORULEMPET GEEK",
+        "points": 110
+    },
+    {
+        "position": 21,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
         "points": 110
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 110
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "44084af0251484f6b0e4ac071231dd25",
         "name": "MrFreddi007",
         "points": 102
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "378ce2fb44758658c2b209862289ce79",
         "name": "NYSKAPENDE KLOVN",
         "points": 102
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "f95e0b644d1f711137317ee984ea536e",
         "name": "fjellape",
         "points": 101
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "760c040a0236df53a1036ab7b071c41e",
         "name": "duniel",
-        "points": 100
-    },
-    {
-        "position": 26,
-        "user_id": "0ee19c0e47f19051d7c04f2d9a165646",
-        "name": "FORULEMPET GEEK",
         "points": 100
     },
     {
