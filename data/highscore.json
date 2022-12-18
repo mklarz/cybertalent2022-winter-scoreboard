@@ -13,27 +13,27 @@
     },
     {
         "position": 3,
+        "user_id": "29a287c0186c88094b95f491bf316390",
+        "name": "NAKEN PERSON",
+        "points": 161
+    },
+    {
+        "position": 4,
         "user_id": "0e7e17e3605aa2385b923dbd549531e4",
         "name": "Vealending",
         "points": 160
     },
     {
-        "position": 4,
+        "position": 5,
         "user_id": "559d1594998588ba24ac93aad1b5c5dd",
         "name": "Segmentation fault (core dumped)",
         "points": 156
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
         "name": "FORULEMPET REVERSER",
         "points": 152
-    },
-    {
-        "position": 6,
-        "user_id": "29a287c0186c88094b95f491bf316390",
-        "name": "NAKEN PERSON",
-        "points": 151
     },
     {
         "position": 7,
