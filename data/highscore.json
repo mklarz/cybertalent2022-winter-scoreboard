@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "23a1d3c990056c69948adefd3b34ccbf",
+        "name": "PizzaDeig",
+        "points": 50
+    },
+    {
+        "position": 98,
         "user_id": "82fbc33b8c46dfdc3a0adeedb28d37fc",
         "name": "BEBRILLET CYBERHELT",
         "points": 44
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "2f0ffbada832883dbd2f675555a42572",
         "name": "YDMYK GEEK",
         "points": 42
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "1933f8cfa05f666c574ada8723218be0",
         "name": "KREATIV ARTIST",
         "points": 41
-    },
-    {
-        "position": 100,
-        "user_id": "ab6f433faebf7a044de4ed77135d6757",
-        "name": "mutex",
-        "points": 40
     }
 ]
