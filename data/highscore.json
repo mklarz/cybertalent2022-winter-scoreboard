@@ -103,26 +103,26 @@
     },
     {
         "position": 18,
+        "user_id": "2e9d167492a8245da1569047cba2fb4e",
+        "name": "SVETT STALLMAN",
+        "points": 122
+    },
+    {
+        "position": 19,
         "user_id": "0ee19c0e47f19051d7c04f2d9a165646",
         "name": "FORULEMPET GEEK",
         "points": 120
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
         "name": "FOKUSERT AGENT",
         "points": 120
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "afc8f69ebaac148eb9cd8f9971316072",
         "name": "Ullern",
-        "points": 120
-    },
-    {
-        "position": 21,
-        "user_id": "2e9d167492a8245da1569047cba2fb4e",
-        "name": "SVETT STALLMAN",
         "points": 120
     },
     {
