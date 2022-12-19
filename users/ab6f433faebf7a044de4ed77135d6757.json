@@ -1,13 +1,13 @@
 {
-    "position": 77,
+    "position": 56,
     "user_id": "ab6f433faebf7a044de4ed77135d6757",
     "name": "mutex",
-    "points": 70,
+    "points": 80,
     "categories": {
-        "1. Grunnleggende": 88,
+        "1. Grunnleggende": 100,
         "2. Oppdrag": 0,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 50
     }
 }
