@@ -1,10 +1,10 @@
 {
-    "position": null,
+    "position": 90,
     "user_id": "25d30db904d54bc444c96b63315a7c15",
     "name": "Mr. Cake",
-    "points": 50,
+    "points": 60,
     "categories": {
-        "1. Grunnleggende": 50,
+        "1. Grunnleggende": 62,
         "2. Oppdrag": 10,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
