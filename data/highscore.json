@@ -127,32 +127,32 @@
     },
     {
         "position": 22,
+        "user_id": "3feab2c5710270ea423436f6b97c0955",
+        "name": "polaris",
+        "points": 120
+    },
+    {
+        "position": 23,
         "user_id": "aea80b015002a120189524438c241369",
         "name": "ARTIG SPION",
         "points": 110
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 110
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "dfa7db38b0862aeeba54ac5e48536beb",
         "name": "moldevort",
         "points": 110
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "e68dd2c270e03825ac1e08137bc41f56",
         "name": "ta@0x90909090",
-        "points": 110
-    },
-    {
-        "position": 26,
-        "user_id": "3feab2c5710270ea423436f6b97c0955",
-        "name": "polaris",
         "points": 110
     },
     {
