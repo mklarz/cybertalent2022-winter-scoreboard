@@ -517,21 +517,21 @@
     },
     {
         "position": 87,
+        "user_id": "e91c203cb1e8f011c69da4b378becb94",
+        "name": "ARTIG SCHNEIER",
+        "points": 52
+    },
+    {
+        "position": 88,
         "user_id": "2a0d34539af6c7757ffc493c9ccfc7a7",
         "name": "hLudde",
         "points": 52
     },
     {
-        "position": 88,
+        "position": 89,
         "user_id": "aac6c6d8b579a0a9486ae8595f05733c",
         "name": "ranesk",
         "points": 51
-    },
-    {
-        "position": 89,
-        "user_id": "e91c203cb1e8f011c69da4b378becb94",
-        "name": "ARTIG SCHNEIER",
-        "points": 50
     },
     {
         "position": 90,
