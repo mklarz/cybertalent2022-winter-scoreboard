@@ -139,33 +139,33 @@
     },
     {
         "position": 24,
+        "user_id": "d21353e4a91464869c00858933ec0498",
+        "name": "Stuk",
+        "points": 120
+    },
+    {
+        "position": 25,
         "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
         "name": "FOKUSERT AGENT",
         "points": 120
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "afc8f69ebaac148eb9cd8f9971316072",
         "name": "Ullern",
         "points": 120
     },
     {
-        "position": 26,
+        "position": 27,
         "user_id": "e68dd2c270e03825ac1e08137bc41f56",
         "name": "ta@0x90909090",
         "points": 120
     },
     {
-        "position": 27,
+        "position": 28,
         "user_id": "28ca5df45ed72c0240d8401a7e63d744",
         "name": "sakarl",
         "points": 120
-    },
-    {
-        "position": 28,
-        "user_id": "d21353e4a91464869c00858933ec0498",
-        "name": "Stuk",
-        "points": 110
     },
     {
         "position": 29,
