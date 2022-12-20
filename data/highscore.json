@@ -67,33 +67,33 @@
     },
     {
         "position": 12,
+        "user_id": "e91c203cb1e8f011c69da4b378becb94",
+        "name": "ARTIG SCHNEIER",
+        "points": 142
+    },
+    {
+        "position": 13,
         "user_id": "2e9d167492a8245da1569047cba2fb4e",
         "name": "SVETT STALLMAN",
         "points": 142
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "d893d0eedbc814b41c4d06de39a54ca6",
         "name": "jole@rebug",
         "points": 140
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "6b927ff69b9336c01b1dd65119199845",
         "name": "Johnny Fiama",
         "points": 140
     },
     {
-        "position": 15,
+        "position": 16,
         "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
         "name": "Magnus",
         "points": 140
-    },
-    {
-        "position": 16,
-        "user_id": "e91c203cb1e8f011c69da4b378becb94",
-        "name": "ARTIG SCHNEIER",
-        "points": 132
     },
     {
         "position": 17,
