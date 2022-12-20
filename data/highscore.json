@@ -61,32 +61,32 @@
     },
     {
         "position": 11,
+        "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
+        "name": "decoy",
+        "points": 150
+    },
+    {
+        "position": 12,
         "user_id": "2e9d167492a8245da1569047cba2fb4e",
         "name": "SVETT STALLMAN",
         "points": 142
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "d893d0eedbc814b41c4d06de39a54ca6",
         "name": "jole@rebug",
         "points": 140
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "6b927ff69b9336c01b1dd65119199845",
         "name": "Johnny Fiama",
         "points": 140
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
         "name": "Magnus",
-        "points": 140
-    },
-    {
-        "position": 15,
-        "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
-        "name": "decoy",
         "points": 140
     },
     {
