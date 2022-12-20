@@ -1,12 +1,12 @@
 {
-    "position": 57,
+    "position": 44,
     "user_id": "25d30db904d54bc444c96b63315a7c15",
     "name": "Mr. Cake",
-    "points": 90,
+    "points": 92,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 10,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 12,
         "3.2. Utfordringer middels": 0,
         "4. Skjulte flagg": 0
     }
