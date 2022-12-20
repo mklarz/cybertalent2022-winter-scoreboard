@@ -31,44 +31,44 @@
     },
     {
         "position": 6,
+        "user_id": "15d5402010ef86b35b7068df36a7e98c",
+        "name": "bummie",
+        "points": 160
+    },
+    {
+        "position": 7,
         "user_id": "559d1594998588ba24ac93aad1b5c5dd",
         "name": "Segmentation fault (core dumped)",
         "points": 156
     },
     {
-        "position": 7,
+        "position": 8,
         "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
         "name": "FORULEMPET REVERSER",
         "points": 152
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "e91c203cb1e8f011c69da4b378becb94",
         "name": "ARTIG SCHNEIER",
         "points": 152
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "0a9e0cbcec2e13bbff6a493bbd8c0459",
         "name": "FORULEMPET KLOVN",
         "points": 150
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "1ce1806b159c5a01b9b468d8ae36e93e",
         "name": "varcella",
         "points": 150
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "0fe053aacfe4b50953ed390c186d5717",
         "name": "halvis",
-        "points": 150
-    },
-    {
-        "position": 12,
-        "user_id": "15d5402010ef86b35b7068df36a7e98c",
-        "name": "bummie",
         "points": 150
     },
     {
@@ -301,81 +301,81 @@
     },
     {
         "position": 51,
+        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
+        "name": "KREATIV SNOK",
+        "points": 90
+    },
+    {
+        "position": 52,
         "user_id": "8b145f36c4f47c960950940f5bfddcbc",
         "name": "masterpi",
         "points": 90
     },
     {
-        "position": 52,
+        "position": 53,
         "user_id": "19d50b08b511e807e2204ce4fa439318",
         "name": "TOPP STALLMAN",
         "points": 90
     },
     {
-        "position": 53,
+        "position": 54,
         "user_id": "fa91ed060349a9b54f07d0b5b6eb41af",
         "name": "L\u00c6RINGSVILLIG SNOK",
         "points": 90
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "6683dd9c4bbbadff57035e3e66895ae0",
         "name": "mossy",
         "points": 90
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "93d0f0c69795e6c71576c9b4fcf99ffc",
         "name": "maikroservice",
         "points": 90
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "5d2659b389037688404db4613a91699e",
         "name": "nicw",
         "points": 90
     },
     {
-        "position": 57,
+        "position": 58,
         "user_id": "e40d3ab60cbb6950391249ca018e0544",
         "name": "roys",
         "points": 90
     },
     {
-        "position": 58,
+        "position": 59,
         "user_id": "b2257b4a45f3ce718ffd07abbe8c7c49",
         "name": "kvn",
         "points": 90
     },
     {
-        "position": 59,
+        "position": 60,
         "user_id": "af71accbf5b48ad8df4518702d53ce78",
         "name": "SKARP AGENT",
         "points": 90
     },
     {
-        "position": 60,
+        "position": 61,
         "user_id": "1eca5db2ef63859b6a812068df2325ac",
         "name": "Audsoll97_2",
         "points": 90
     },
     {
-        "position": 61,
+        "position": 62,
         "user_id": "b26ec3626ee82df83da855846100e46e",
         "name": "pappabloggen",
         "points": 90
     },
     {
-        "position": 62,
+        "position": 63,
         "user_id": "c3ede9163676d93789a83de208417d50",
         "name": "OPERATIV REVERSER",
         "points": 81
-    },
-    {
-        "position": 63,
-        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
-        "name": "KREATIV SNOK",
-        "points": 80
     },
     {
         "position": 64,
