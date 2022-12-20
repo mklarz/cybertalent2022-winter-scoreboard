@@ -577,26 +577,26 @@
     },
     {
         "position": 97,
+        "user_id": "aac6c6d8b579a0a9486ae8595f05733c",
+        "name": "ranesk",
+        "points": 61
+    },
+    {
+        "position": 98,
         "user_id": "66eab6f46ca0bfa7c38835c1494d64bb",
         "name": "GAMMEL SLASK",
         "points": 60
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "49ae61f27236bc30ac9fb5b1260410de",
         "name": "MOTIVERT PERSON",
         "points": 60
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "1354005960134e47b9e41effc78c775e",
         "name": "FOKUSERT NOOB",
-        "points": 60
-    },
-    {
-        "position": 100,
-        "user_id": "b16609046c7232e549c2c951cb7199da",
-        "name": "KREVENDE NOOB",
         "points": 60
     }
 ]
