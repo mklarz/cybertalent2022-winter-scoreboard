@@ -283,20 +283,20 @@
     },
     {
         "position": 48,
+        "user_id": "4dad71f4c98470db0f3a06a17b6d5e70",
+        "name": "KNU753N",
+        "points": 93
+    },
+    {
+        "position": 49,
         "user_id": "ff813bcb2b1c1709986a26d09e25fd6f",
         "name": "ARBEIDSLEDIG DRAPER",
         "points": 92
     },
     {
-        "position": 49,
+        "position": 50,
         "user_id": "833c479d40ce417ac65d99b81d8a9d28",
         "name": "USOSIAL CYBERHELT",
-        "points": 91
-    },
-    {
-        "position": 50,
-        "user_id": "4dad71f4c98470db0f3a06a17b6d5e70",
-        "name": "KNU753N",
         "points": 91
     },
     {
@@ -589,14 +589,14 @@
     },
     {
         "position": 99,
-        "user_id": "61c966700a8658eaa917098b3915c367",
-        "name": "Datasnok",
-        "points": 62
+        "user_id": "2fce20661be739ab0513b2d7e006a9e0",
+        "name": "Litta Kake",
+        "points": 70
     },
     {
         "position": 100,
-        "user_id": "1933f8cfa05f666c574ada8723218be0",
-        "name": "KREATIV ARTIST",
-        "points": 61
+        "user_id": "61c966700a8658eaa917098b3915c367",
+        "name": "Datasnok",
+        "points": 62
     }
 ]
