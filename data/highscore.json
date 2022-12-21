@@ -265,20 +265,20 @@
     },
     {
         "position": 45,
+        "user_id": "25d30db904d54bc444c96b63315a7c15",
+        "name": "Mr. Cake",
+        "points": 94
+    },
+    {
+        "position": 46,
         "user_id": "01e7d8dfa9eeb01ddd221ac649e384ca",
         "name": "Taschmex",
         "points": 94
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "2617736e4bba952a0545485bd2268914",
         "name": "0x55AA",
-        "points": 93
-    },
-    {
-        "position": 47,
-        "user_id": "25d30db904d54bc444c96b63315a7c15",
-        "name": "Mr. Cake",
         "points": 93
     },
     {
