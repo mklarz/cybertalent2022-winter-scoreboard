@@ -37,32 +37,32 @@
     },
     {
         "position": 7,
+        "user_id": "1ce1806b159c5a01b9b468d8ae36e93e",
+        "name": "varcella",
+        "points": 160
+    },
+    {
+        "position": 8,
         "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
         "name": "decoy",
         "points": 160
     },
     {
-        "position": 8,
+        "position": 9,
         "user_id": "15d5402010ef86b35b7068df36a7e98c",
         "name": "bummie",
         "points": 160
     },
     {
-        "position": 9,
+        "position": 10,
         "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
         "name": "FORULEMPET REVERSER",
         "points": 152
     },
     {
-        "position": 10,
+        "position": 11,
         "user_id": "0a9e0cbcec2e13bbff6a493bbd8c0459",
         "name": "FORULEMPET KLOVN",
-        "points": 150
-    },
-    {
-        "position": 11,
-        "user_id": "1ce1806b159c5a01b9b468d8ae36e93e",
-        "name": "varcella",
         "points": 150
     },
     {
