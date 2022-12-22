@@ -1,5 +1,5 @@
 {
-    "position": 70,
+    "position": 63,
     "user_id": "8496a9f1f8f3655b3b25349e3da6db9c",
     "name": "Sithis",
     "points": 90,
@@ -8,6 +8,6 @@
         "2. Oppdrag": 5,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
-        "4. Skjulte flagg": 0
+        "4. Skjulte flagg": 50
     }
 }
