@@ -1,11 +1,11 @@
 {
-    "position": null,
+    "position": 93,
     "user_id": "e213fc3eb6e739b77d9814c0708dfe03",
     "name": "123456",
-    "points": 70,
+    "points": 80,
     "categories": {
         "1. Grunnleggende": 88,
-        "2. Oppdrag": 0,
+        "2. Oppdrag": 5,
         "3.1. Utfordringer lett": 0,
         "3.2. Utfordringer middels": 0,
         "4. Skjulte flagg": 0
