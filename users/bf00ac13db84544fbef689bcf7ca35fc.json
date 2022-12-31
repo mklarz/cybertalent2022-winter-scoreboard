@@ -1,12 +1,12 @@
 {
-    "position": 35,
+    "position": 33,
     "user_id": "bf00ac13db84544fbef689bcf7ca35fc",
     "name": "BEBRILLET AGENT",
-    "points": 150,
+    "points": 152,
     "categories": {
         "1. Grunnleggende": 88,
         "2. Oppdrag": 38,
-        "3.1. Utfordringer lett": 0,
+        "3.1. Utfordringer lett": 12,
         "3.2. Utfordringer middels": 0,
         "4. Skjulte flagg": 50
     }
