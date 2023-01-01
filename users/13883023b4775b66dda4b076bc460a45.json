@@ -1,13 +1,13 @@
 {
-    "position": 7,
+    "position": 5,
     "user_id": "13883023b4775b66dda4b076bc460a45",
     "name": "poiko",
-    "points": 197,
+    "points": 211,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 62,
         "3.1. Utfordringer lett": 25,
-        "3.2. Utfordringer middels": 8,
+        "3.2. Utfordringer middels": 100,
         "3.4. Utfordringer umulig": 78,
         "4. Skjulte flagg": 100
     }
