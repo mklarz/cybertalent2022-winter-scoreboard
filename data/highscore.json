@@ -115,39 +115,39 @@
     },
     {
         "position": 20,
+        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
+        "name": "Ullern",
+        "points": 184
+    },
+    {
+        "position": 21,
         "user_id": "7223f328e3057f9ba10d3ef6b2aab68c",
         "name": "ALVORLIG NERD",
         "points": 183
     },
     {
-        "position": 21,
+        "position": 22,
         "user_id": "1eca5db2ef63859b6a812068df2325ac",
         "name": "Audsoll97_2",
         "points": 182
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "fd1b67f528ce5bb91572792bc9430a8a",
         "name": "grandiosa",
         "points": 178
     },
     {
-        "position": 23,
+        "position": 24,
         "user_id": "1cf28801e962892d64ccc38c05cf791a",
         "name": "ragev",
         "points": 176
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "44084af0251484f6b0e4ac071231dd25",
         "name": "MrFreddi007",
         "points": 175
-    },
-    {
-        "position": 25,
-        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
-        "name": "Ullern",
-        "points": 174
     },
     {
         "position": 26,
@@ -199,39 +199,39 @@
     },
     {
         "position": 34,
+        "user_id": "f7e0fb906f48a2de4f695a5b614eb299",
+        "name": "Shirajuki",
+        "points": 161
+    },
+    {
+        "position": 35,
         "user_id": "4572d03f16496d7edd9d6d7fc3ec1bc0",
         "name": "NAKEN PWNER",
         "points": 160
     },
     {
-        "position": 35,
+        "position": 36,
         "user_id": "e81f23d87d6e6b1435cbaed74a3cd54e",
         "name": "FORULEMPET REVERSER",
         "points": 158
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "3feab2c5710270ea423436f6b97c0955",
         "name": "polaris",
         "points": 152
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "bf00ac13db84544fbef689bcf7ca35fc",
         "name": "BEBRILLET AGENT",
         "points": 152
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "bd68519f6349b48e2cd214eca509761b",
         "name": "dragen",
         "points": 152
-    },
-    {
-        "position": 39,
-        "user_id": "f7e0fb906f48a2de4f695a5b614eb299",
-        "name": "Shirajuki",
-        "points": 151
     },
     {
         "position": 40,
