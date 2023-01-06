@@ -121,21 +121,21 @@
     },
     {
         "position": 21,
+        "user_id": "bfe600826d34a01d2aeedbd9c9bf0d53",
+        "name": "Scalpel",
+        "points": 183
+    },
+    {
+        "position": 22,
         "user_id": "7223f328e3057f9ba10d3ef6b2aab68c",
         "name": "ALVORLIG NERD",
         "points": 183
     },
     {
-        "position": 22,
+        "position": 23,
         "user_id": "1eca5db2ef63859b6a812068df2325ac",
         "name": "Audsoll97_2",
         "points": 182
-    },
-    {
-        "position": 23,
-        "user_id": "bfe600826d34a01d2aeedbd9c9bf0d53",
-        "name": "Scalpel",
-        "points": 180
     },
     {
         "position": 24,
