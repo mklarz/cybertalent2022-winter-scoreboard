@@ -1,13 +1,13 @@
 {
-    "position": 32,
+    "position": 30,
     "user_id": "28ca5df45ed72c0240d8401a7e63d744",
     "name": "sakarl",
-    "points": 164,
+    "points": 165,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 38,
         "3.1. Utfordringer lett": 25,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 8,
         "4. Skjulte flagg": 100
     }
 }
