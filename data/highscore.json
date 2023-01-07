@@ -583,20 +583,20 @@
     },
     {
         "position": 98,
+        "user_id": "293a6324223b7bf69f568b6ad4ffacd8",
+        "name": "ANERKJENT SLASK",
+        "points": 91
+    },
+    {
+        "position": 99,
         "user_id": "ab6f433faebf7a044de4ed77135d6757",
         "name": "mutex",
         "points": 90
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "ace803f819b30d44d89b998e55a32b8d",
         "name": "NERDETE CRACKER",
-        "points": 90
-    },
-    {
-        "position": 100,
-        "user_id": "190aef652b364c986e39fe5ade215fd0",
-        "name": "INNBITT AGENT",
         "points": 90
     }
 ]
