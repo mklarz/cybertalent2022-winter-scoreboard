@@ -175,20 +175,20 @@
     },
     {
         "position": 30,
+        "user_id": "b26ec3626ee82df83da855846100e46e",
+        "name": "pappabloggen",
+        "points": 166
+    },
+    {
+        "position": 31,
         "user_id": "5d2659b389037688404db4613a91699e",
         "name": "nicw",
         "points": 165
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "28ca5df45ed72c0240d8401a7e63d744",
         "name": "sakarl",
-        "points": 165
-    },
-    {
-        "position": 32,
-        "user_id": "b26ec3626ee82df83da855846100e46e",
-        "name": "pappabloggen",
         "points": 165
     },
     {
