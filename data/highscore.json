@@ -217,44 +217,44 @@
     },
     {
         "position": 37,
+        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
+        "name": "KREATIV SNOK",
+        "points": 160
+    },
+    {
+        "position": 38,
         "user_id": "3feab2c5710270ea423436f6b97c0955",
         "name": "polaris",
         "points": 152
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "bf00ac13db84544fbef689bcf7ca35fc",
         "name": "BEBRILLET AGENT",
         "points": 152
     },
     {
-        "position": 39,
+        "position": 40,
         "user_id": "bd68519f6349b48e2cd214eca509761b",
         "name": "dragen",
         "points": 152
     },
     {
-        "position": 40,
+        "position": 41,
         "user_id": "3c60c66bd7bd5ee760aefc6a8ca38ba0",
         "name": "HAL5000Y",
         "points": 152
     },
     {
-        "position": 41,
+        "position": 42,
         "user_id": "0a9e0cbcec2e13bbff6a493bbd8c0459",
         "name": "FORULEMPET KLOVN",
         "points": 150
     },
     {
-        "position": 42,
+        "position": 43,
         "user_id": "0fe053aacfe4b50953ed390c186d5717",
         "name": "halvis",
-        "points": 150
-    },
-    {
-        "position": 43,
-        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
-        "name": "KREATIV SNOK",
         "points": 150
     },
     {
@@ -571,32 +571,32 @@
     },
     {
         "position": 96,
+        "user_id": "c5d8b09f616e310a10d9c46ef0253709",
+        "name": "Pepperkaren",
+        "points": 92
+    },
+    {
+        "position": 97,
         "user_id": "3977053f3fcd6430294303f02433ca95",
         "name": "theokvallau",
         "points": 92
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "ab6f433faebf7a044de4ed77135d6757",
         "name": "mutex",
         "points": 90
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "ace803f819b30d44d89b998e55a32b8d",
         "name": "NERDETE CRACKER",
         "points": 90
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "190aef652b364c986e39fe5ade215fd0",
         "name": "INNBITT AGENT",
-        "points": 90
-    },
-    {
-        "position": 100,
-        "user_id": "8b145f36c4f47c960950940f5bfddcbc",
-        "name": "masterpi",
         "points": 90
     }
 ]
