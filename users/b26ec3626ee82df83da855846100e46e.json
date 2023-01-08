@@ -1,13 +1,13 @@
 {
-    "position": 31,
+    "position": 29,
     "user_id": "b26ec3626ee82df83da855846100e46e",
     "name": "pappabloggen",
-    "points": 167,
+    "points": 168,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 38,
         "3.1. Utfordringer lett": 88,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 8,
         "4. Skjulte flagg": 50
     }
 }
