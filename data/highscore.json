@@ -565,38 +565,38 @@
     },
     {
         "position": 95,
+        "user_id": "c8dbd93de18643e75d6e65fa4a7e582f",
+        "name": "afs",
+        "points": 100
+    },
+    {
+        "position": 96,
         "user_id": "19d50b08b511e807e2204ce4fa439318",
         "name": "TOPP STALLMAN",
         "points": 95
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "01e7d8dfa9eeb01ddd221ac649e384ca",
         "name": "Taschmex",
         "points": 94
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "293a6324223b7bf69f568b6ad4ffacd8",
         "name": "ANERKJENT SLASK",
         "points": 93
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "c5d8b09f616e310a10d9c46ef0253709",
         "name": "Pepperkaren",
         "points": 92
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "3977053f3fcd6430294303f02433ca95",
         "name": "theokvallau",
         "points": 92
-    },
-    {
-        "position": 100,
-        "user_id": "ab6f433faebf7a044de4ed77135d6757",
-        "name": "mutex",
-        "points": 90
     }
 ]
