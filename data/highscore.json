@@ -67,27 +67,27 @@
     },
     {
         "position": 12,
+        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
+        "name": "Ullern",
+        "points": 194
+    },
+    {
+        "position": 13,
         "user_id": "e91c203cb1e8f011c69da4b378becb94",
         "name": "larsw",
         "points": 192
     },
     {
-        "position": 13,
+        "position": 14,
         "user_id": "7ab2ac500a259fb98fe5f2a4a8b4884c",
         "name": "decoy",
         "points": 192
     },
     {
-        "position": 14,
+        "position": 15,
         "user_id": "5d2659b389037688404db4613a91699e",
         "name": "nicw",
         "points": 191
-    },
-    {
-        "position": 15,
-        "user_id": "afc8f69ebaac148eb9cd8f9971316072",
-        "name": "Ullern",
-        "points": 190
     },
     {
         "position": 16,
