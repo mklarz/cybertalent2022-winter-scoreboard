@@ -247,38 +247,38 @@
     },
     {
         "position": 42,
+        "user_id": "3c8741bb86be92ff0eda67a1c75be8a9",
+        "name": "GRILLET AGENT",
+        "points": 153
+    },
+    {
+        "position": 43,
         "user_id": "3feab2c5710270ea423436f6b97c0955",
         "name": "polaris",
         "points": 152
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "bf00ac13db84544fbef689bcf7ca35fc",
         "name": "BEBRILLET AGENT",
         "points": 152
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "3b8c77aeb9fb6fe6c90a25173f57492d",
         "name": "UPASSENDE RUSSER",
         "points": 152
     },
     {
-        "position": 45,
+        "position": 46,
         "user_id": "bd68519f6349b48e2cd214eca509761b",
         "name": "dragen",
         "points": 152
     },
     {
-        "position": 46,
+        "position": 47,
         "user_id": "0a9e0cbcec2e13bbff6a493bbd8c0459",
         "name": "FORULEMPET KLOVN",
-        "points": 150
-    },
-    {
-        "position": 47,
-        "user_id": "3c8741bb86be92ff0eda67a1c75be8a9",
-        "name": "GRILLET AGENT",
         "points": 150
     },
     {
