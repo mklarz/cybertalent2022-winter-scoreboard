@@ -529,74 +529,74 @@
     },
     {
         "position": 89,
+        "user_id": "ebdc96013d3adf3bc4adaf8a35a3dea3",
+        "name": "smil",
+        "points": 102
+    },
+    {
+        "position": 90,
         "user_id": "f95e0b644d1f711137317ee984ea536e",
         "name": "fjellape",
         "points": 101
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "f0f728f12971ca4ca7d157bf0754255e",
         "name": "NootNoot",
         "points": 101
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "25d30db904d54bc444c96b63315a7c15",
         "name": "Mr. Cake",
         "points": 100
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "760c040a0236df53a1036ab7b071c41e",
         "name": "duniel",
         "points": 100
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "22f71db2c94694a6a164bd924b8b7dd0",
         "name": "ctfrog",
         "points": 100
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "aac5e53294494f9f9a1339cf6c9f4110",
         "name": "TAFATT NERD",
         "points": 100
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "1055d670d9ade343a88c422f9fe55dda",
         "name": "ymgve",
         "points": 100
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "75209172a036227ae9d752ea8c3e0ddb",
         "name": "johanen",
         "points": 100
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "96ce4a2efd06a19f63e44d683a55039b",
         "name": "obro",
         "points": 100
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "395a915430f7d69ec5521385b06db37c",
         "name": "fs",
         "points": 100
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "19d50b08b511e807e2204ce4fa439318",
         "name": "TOPP STALLMAN",
         "points": 96
-    },
-    {
-        "position": 100,
-        "user_id": "01e7d8dfa9eeb01ddd221ac649e384ca",
-        "name": "Taschmex",
-        "points": 94
     }
 ]
