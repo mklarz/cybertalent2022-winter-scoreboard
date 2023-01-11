@@ -205,32 +205,32 @@
     },
     {
         "position": 35,
+        "user_id": "3c60c66bd7bd5ee760aefc6a8ca38ba0",
+        "name": "HAL5000Y",
+        "points": 165
+    },
+    {
+        "position": 36,
         "user_id": "89c84bfdc9d9b84aacc9f41d1f355310",
         "name": "ANARKISTISK STALLMAN",
         "points": 164
     },
     {
-        "position": 36,
+        "position": 37,
         "user_id": "07ce65055e8f47e01cb1296f1aea4771",
         "name": "KREATIV SNOK",
         "points": 164
     },
     {
-        "position": 37,
+        "position": 38,
         "user_id": "3c8741bb86be92ff0eda67a1c75be8a9",
         "name": "GRILLET AGENT",
         "points": 163
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "704ed336f055c1a168c46285e5d7d21d",
         "name": "mrekorn",
-        "points": 163
-    },
-    {
-        "position": 39,
-        "user_id": "3c60c66bd7bd5ee760aefc6a8ca38ba0",
-        "name": "HAL5000Y",
         "points": 163
     },
     {
