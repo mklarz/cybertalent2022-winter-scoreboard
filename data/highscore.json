@@ -433,62 +433,62 @@
     },
     {
         "position": 73,
+        "user_id": "c8dbd93de18643e75d6e65fa4a7e582f",
+        "name": "afs",
+        "points": 120
+    },
+    {
+        "position": 74,
         "user_id": "0732bd31e892fbce54bf3140051d066b",
         "name": "TYPETE MITNICK",
         "points": 113
     },
     {
-        "position": 74,
+        "position": 75,
         "user_id": "c679ba9623a7424aa92ee3666d4b7d41",
         "name": "GRINETE GEEK",
         "points": 113
     },
     {
-        "position": 75,
+        "position": 76,
         "user_id": "ebdc96013d3adf3bc4adaf8a35a3dea3",
         "name": "smil",
         "points": 113
     },
     {
-        "position": 76,
+        "position": 77,
         "user_id": "833c479d40ce417ac65d99b81d8a9d28",
         "name": "USOSIAL CYBERHELT",
         "points": 111
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 110
     },
     {
-        "position": 78,
+        "position": 79,
         "user_id": "dfa7db38b0862aeeba54ac5e48536beb",
         "name": "moldevort",
         "points": 110
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "aa9508d645541e76f4887305d6f3c4c2",
         "name": "FORULEMPET DRAPER",
         "points": 110
     },
     {
-        "position": 80,
+        "position": 81,
         "user_id": "5a51aa289aeadf0f91e1089c36429bed",
         "name": "GAMMEL SPION",
         "points": 110
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "f95502e69ddd0fae8ec410129189dd51",
         "name": "ALVORLIG AGENT",
-        "points": 110
-    },
-    {
-        "position": 82,
-        "user_id": "c8dbd93de18643e75d6e65fa4a7e582f",
-        "name": "afs",
         "points": 110
     },
     {
