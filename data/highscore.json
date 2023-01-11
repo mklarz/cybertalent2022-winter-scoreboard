@@ -217,20 +217,20 @@
     },
     {
         "position": 37,
+        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
+        "name": "KREATIV SNOK",
+        "points": 165
+    },
+    {
+        "position": 38,
         "user_id": "3c60c66bd7bd5ee760aefc6a8ca38ba0",
         "name": "HAL5000Y",
         "points": 165
     },
     {
-        "position": 38,
+        "position": 39,
         "user_id": "89c84bfdc9d9b84aacc9f41d1f355310",
         "name": "ANARKISTISK STALLMAN",
-        "points": 164
-    },
-    {
-        "position": 39,
-        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
-        "name": "KREATIV SNOK",
         "points": 164
     },
     {

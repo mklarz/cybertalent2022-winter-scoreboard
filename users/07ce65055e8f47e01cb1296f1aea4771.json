@@ -1,13 +1,13 @@
 {
-    "position": 39,
+    "position": 37,
     "user_id": "07ce65055e8f47e01cb1296f1aea4771",
     "name": "KREATIV SNOK",
-    "points": 164,
+    "points": 165,
     "categories": {
         "1. Grunnleggende": 100,
         "2. Oppdrag": 38,
         "3.1. Utfordringer lett": 25,
-        "3.2. Utfordringer middels": 0,
+        "3.2. Utfordringer middels": 8,
         "4. Skjulte flagg": 50
     }
 }
