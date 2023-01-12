@@ -247,27 +247,27 @@
     },
     {
         "position": 42,
+        "user_id": "2e9d167492a8245da1569047cba2fb4e",
+        "name": "SVETT STALLMAN",
+        "points": 161
+    },
+    {
+        "position": 43,
         "user_id": "f7e0fb906f48a2de4f695a5b614eb299",
         "name": "Shirajuki",
         "points": 161
     },
     {
-        "position": 43,
+        "position": 44,
         "user_id": "f1e760a0f0b9544b1df0977f0fd823ac",
         "name": "eirikff",
         "points": 160
     },
     {
-        "position": 44,
+        "position": 45,
         "user_id": "4572d03f16496d7edd9d6d7fc3ec1bc0",
         "name": "NAKEN PWNER",
         "points": 160
-    },
-    {
-        "position": 45,
-        "user_id": "2e9d167492a8245da1569047cba2fb4e",
-        "name": "SVETT STALLMAN",
-        "points": 158
     },
     {
         "position": 46,
