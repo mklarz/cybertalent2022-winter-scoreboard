@@ -55,26 +55,26 @@
     },
     {
         "position": 10,
+        "user_id": "c679ba9623a7424aa92ee3666d4b7d41",
+        "name": "GRINETE GEEK",
+        "points": 197
+    },
+    {
+        "position": 11,
         "user_id": "29a287c0186c88094b95f491bf316390",
         "name": "NAKEN PERSON",
         "points": 196
     },
     {
-        "position": 11,
+        "position": 12,
         "user_id": "afc8f69ebaac148eb9cd8f9971316072",
         "name": "Ullern",
         "points": 195
     },
     {
-        "position": 12,
+        "position": 13,
         "user_id": "5d2659b389037688404db4613a91699e",
         "name": "nicw",
-        "points": 195
-    },
-    {
-        "position": 13,
-        "user_id": "c679ba9623a7424aa92ee3666d4b7d41",
-        "name": "GRINETE GEEK",
         "points": 195
     },
     {
