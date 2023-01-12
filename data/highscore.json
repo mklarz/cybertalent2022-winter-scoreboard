@@ -571,32 +571,32 @@
     },
     {
         "position": 96,
+        "user_id": "19d50b08b511e807e2204ce4fa439318",
+        "name": "TOPP STALLMAN",
+        "points": 100
+    },
+    {
+        "position": 97,
         "user_id": "25d30db904d54bc444c96b63315a7c15",
         "name": "Mr. Cake",
         "points": 100
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "760c040a0236df53a1036ab7b071c41e",
         "name": "duniel",
         "points": 100
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "22f71db2c94694a6a164bd924b8b7dd0",
         "name": "ctfrog",
         "points": 100
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "190aef652b364c986e39fe5ade215fd0",
         "name": "INNBITT AGENT",
-        "points": 100
-    },
-    {
-        "position": 100,
-        "user_id": "ab6f433faebf7a044de4ed77135d6757",
-        "name": "mutex",
         "points": 100
     }
 ]
