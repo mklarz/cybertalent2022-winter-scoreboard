@@ -523,27 +523,27 @@
     },
     {
         "position": 88,
+        "user_id": "ad8cfe04beb58171fff2e28012990f46",
+        "name": "KREVENDE GEEK",
+        "points": 106
+    },
+    {
+        "position": 89,
         "user_id": "a5dd3b341e5b316244d11ca6d3d636f9",
         "name": "kippster",
         "points": 106
     },
     {
-        "position": 89,
+        "position": 90,
         "user_id": "293a6324223b7bf69f568b6ad4ffacd8",
         "name": "ANERKJENT SLASK",
         "points": 105
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "81b708c04406898a6e03e0fed7ed083c",
         "name": "cljz",
         "points": 105
-    },
-    {
-        "position": 91,
-        "user_id": "ad8cfe04beb58171fff2e28012990f46",
-        "name": "KREVENDE GEEK",
-        "points": 104
     },
     {
         "position": 92,
