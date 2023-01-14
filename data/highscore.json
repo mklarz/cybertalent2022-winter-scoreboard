@@ -313,32 +313,32 @@
     },
     {
         "position": 53,
+        "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
+        "name": "Magnus",
+        "points": 150
+    },
+    {
+        "position": 54,
         "user_id": "4dad71f4c98470db0f3a06a17b6d5e70",
         "name": "KNU753N",
         "points": 148
     },
     {
-        "position": 54,
+        "position": 55,
         "user_id": "ad7ccb54cd5b93c97a2143269fbfee0c",
         "name": "Viktor",
         "points": 146
     },
     {
-        "position": 55,
+        "position": 56,
         "user_id": "fb37901364e43a409ffdbdd0a8319c71",
         "name": "Georg",
         "points": 145
     },
     {
-        "position": 56,
+        "position": 57,
         "user_id": "9607405538ddd0bebfef2d45086a3126",
         "name": "Augustus",
-        "points": 140
-    },
-    {
-        "position": 57,
-        "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
-        "name": "Magnus",
         "points": 140
     },
     {
