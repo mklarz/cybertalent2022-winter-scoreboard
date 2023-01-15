@@ -19,21 +19,21 @@
     },
     {
         "position": 4,
+        "user_id": "559d1594998588ba24ac93aad1b5c5dd",
+        "name": "Segmentation fault (core dumped)",
+        "points": 232
+    },
+    {
+        "position": 5,
         "user_id": "0e7e17e3605aa2385b923dbd549531e4",
         "name": "Vealending",
         "points": 232
     },
     {
-        "position": 5,
+        "position": 6,
         "user_id": "ff813bcb2b1c1709986a26d09e25fd6f",
         "name": "Limbo",
         "points": 232
-    },
-    {
-        "position": 6,
-        "user_id": "559d1594998588ba24ac93aad1b5c5dd",
-        "name": "Segmentation fault (core dumped)",
-        "points": 231
     },
     {
         "position": 7,
