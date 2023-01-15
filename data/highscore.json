@@ -103,27 +103,27 @@
     },
     {
         "position": 18,
+        "user_id": "6b927ff69b9336c01b1dd65119199845",
+        "name": "Johnny Fiama",
+        "points": 195
+    },
+    {
+        "position": 19,
         "user_id": "0ee19c0e47f19051d7c04f2d9a165646",
         "name": "Nic",
         "points": 195
     },
     {
-        "position": 19,
+        "position": 20,
         "user_id": "d893d0eedbc814b41c4d06de39a54ca6",
         "name": "jole@rebug",
         "points": 194
     },
     {
-        "position": 20,
+        "position": 21,
         "user_id": "3c8741bb86be92ff0eda67a1c75be8a9",
         "name": "You got to MOV x0, #0x6974",
         "points": 193
-    },
-    {
-        "position": 21,
-        "user_id": "6b927ff69b9336c01b1dd65119199845",
-        "name": "Johnny Fiama",
-        "points": 192
     },
     {
         "position": 22,
@@ -451,51 +451,51 @@
     },
     {
         "position": 76,
+        "user_id": "f29fb935da23b95e10f5c1f0b20d0f95",
+        "name": "2xic aka mr.gifflar",
+        "points": 122
+    },
+    {
+        "position": 77,
         "user_id": "d21353e4a91464869c00858933ec0498",
         "name": "Stuk",
         "points": 120
     },
     {
-        "position": 77,
+        "position": 78,
         "user_id": "f2e38274bf9bc9d0484f89015d0b7019",
         "name": "t\u00f8ffel-krokett",
         "points": 120
     },
     {
-        "position": 78,
+        "position": 79,
         "user_id": "e8c90eff57a78b645bf2a19bca8b5ab1",
         "name": "FOKUSERT AGENT",
         "points": 120
     },
     {
-        "position": 79,
+        "position": 80,
         "user_id": "c8dbd93de18643e75d6e65fa4a7e582f",
         "name": "afs",
         "points": 120
     },
     {
-        "position": 80,
+        "position": 81,
         "user_id": "0732bd31e892fbce54bf3140051d066b",
         "name": "TYPETE MITNICK",
         "points": 113
     },
     {
-        "position": 81,
+        "position": 82,
         "user_id": "ebdc96013d3adf3bc4adaf8a35a3dea3",
         "name": "smil",
         "points": 113
     },
     {
-        "position": 82,
+        "position": 83,
         "user_id": "512772a9f7df5d9c98b59917edb110ae",
         "name": "acinglin",
         "points": 113
-    },
-    {
-        "position": 83,
-        "user_id": "f29fb935da23b95e10f5c1f0b20d0f95",
-        "name": "2xic aka mr.gifflar",
-        "points": 112
     },
     {
         "position": 84,
