@@ -499,104 +499,104 @@
     },
     {
         "position": 84,
+        "user_id": "f1295ab28daa4c809829063b4541f27d",
+        "name": "SVETT REVERSER",
+        "points": 112
+    },
+    {
+        "position": 85,
         "user_id": "833c479d40ce417ac65d99b81d8a9d28",
         "name": "USOSIAL CYBERHELT",
         "points": 111
     },
     {
-        "position": 85,
+        "position": 86,
         "user_id": "f83ac5e768ad191c69c2a76d16c32ad1",
         "name": "DYKTIG KODER",
         "points": 110
     },
     {
-        "position": 86,
+        "position": 87,
         "user_id": "dfa7db38b0862aeeba54ac5e48536beb",
         "name": "moldevort",
         "points": 110
     },
     {
-        "position": 87,
+        "position": 88,
         "user_id": "aa9508d645541e76f4887305d6f3c4c2",
         "name": "FORULEMPET DRAPER",
         "points": 110
     },
     {
-        "position": 88,
+        "position": 89,
         "user_id": "5a51aa289aeadf0f91e1089c36429bed",
         "name": "GAMMEL SPION",
         "points": 110
     },
     {
-        "position": 89,
+        "position": 90,
         "user_id": "f95502e69ddd0fae8ec410129189dd51",
         "name": "ALVORLIG AGENT",
         "points": 110
     },
     {
-        "position": 90,
+        "position": 91,
         "user_id": "d9c8d2a9f1e084973a30094216dfa547",
         "name": "asianace",
         "points": 110
     },
     {
-        "position": 91,
+        "position": 92,
         "user_id": "f6f8fa899590f81e85daa9e904b9dbb7",
         "name": "noidremained",
         "points": 108
     },
     {
-        "position": 92,
+        "position": 93,
         "user_id": "ad8cfe04beb58171fff2e28012990f46",
         "name": "KREVENDE GEEK",
         "points": 107
     },
     {
-        "position": 93,
+        "position": 94,
         "user_id": "a5dd3b341e5b316244d11ca6d3d636f9",
         "name": "kippster",
         "points": 106
     },
     {
-        "position": 94,
+        "position": 95,
         "user_id": "293a6324223b7bf69f568b6ad4ffacd8",
         "name": "ANERKJENT SLASK",
         "points": 105
     },
     {
-        "position": 95,
+        "position": 96,
         "user_id": "81b708c04406898a6e03e0fed7ed083c",
         "name": "cljz",
         "points": 105
     },
     {
-        "position": 96,
+        "position": 97,
         "user_id": "2617736e4bba952a0545485bd2268914",
         "name": "0x55AA",
         "points": 103
     },
     {
-        "position": 97,
+        "position": 98,
         "user_id": "1933f8cfa05f666c574ada8723218be0",
         "name": "KREATIV ARTIST",
         "points": 103
     },
     {
-        "position": 98,
+        "position": 99,
         "user_id": "b9680a22385e5b28165a2d4ace75846e",
         "name": "SKARP KLOVN",
         "points": 103
     },
     {
-        "position": 99,
+        "position": 100,
         "user_id": "ae29b19aac19683f822aee1dc51fd408",
         "name": "Blixat",
-        "points": 102
-    },
-    {
-        "position": 100,
-        "user_id": "378ce2fb44758658c2b209862289ce79",
-        "name": "maxmanus",
         "points": 102
     }
 ]
