@@ -169,33 +169,33 @@
     },
     {
         "position": 29,
+        "user_id": "b26ec3626ee82df83da855846100e46e",
+        "name": "pappabloggen",
+        "points": 183
+    },
+    {
+        "position": 30,
         "user_id": "7223f328e3057f9ba10d3ef6b2aab68c",
         "name": "ALVORLIG NERD",
         "points": 183
     },
     {
-        "position": 30,
+        "position": 31,
         "user_id": "0fe053aacfe4b50953ed390c186d5717",
         "name": "halvis",
         "points": 180
     },
     {
-        "position": 31,
+        "position": 32,
         "user_id": "1cf28801e962892d64ccc38c05cf791a",
         "name": "ragev",
         "points": 180
     },
     {
-        "position": 32,
+        "position": 33,
         "user_id": "44084af0251484f6b0e4ac071231dd25",
         "name": "MrFreddi007",
         "points": 175
-    },
-    {
-        "position": 33,
-        "user_id": "b26ec3626ee82df83da855846100e46e",
-        "name": "pappabloggen",
-        "points": 173
     },
     {
         "position": 34,
@@ -307,14 +307,14 @@
     },
     {
         "position": 52,
-        "user_id": "6683dd9c4bbbadff57035e3e66895ae0",
-        "name": "mossy",
+        "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
+        "name": "Magnus",
         "points": 150
     },
     {
         "position": 53,
-        "user_id": "5b5d8dbeb89e048f3305ab8bd998e979",
-        "name": "Magnus",
+        "user_id": "6683dd9c4bbbadff57035e3e66895ae0",
+        "name": "mossy",
         "points": 150
     },
     {
