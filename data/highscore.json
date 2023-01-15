@@ -133,27 +133,27 @@
     },
     {
         "position": 23,
+        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
+        "name": "ruant",
+        "points": 192
+    },
+    {
+        "position": 24,
         "user_id": "f1e760a0f0b9544b1df0977f0fd823ac",
         "name": "eirikff",
         "points": 192
     },
     {
-        "position": 24,
+        "position": 25,
         "user_id": "e40d3ab60cbb6950391249ca018e0544",
         "name": "roys",
         "points": 190
     },
     {
-        "position": 25,
+        "position": 26,
         "user_id": "1ce1806b159c5a01b9b468d8ae36e93e",
         "name": "varcella",
         "points": 190
-    },
-    {
-        "position": 26,
-        "user_id": "07ce65055e8f47e01cb1296f1aea4771",
-        "name": "ruant",
-        "points": 189
     },
     {
         "position": 27,
