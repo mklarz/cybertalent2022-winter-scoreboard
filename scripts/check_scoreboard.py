@@ -54,6 +54,7 @@ def handle_user(user_id, user=None):
             "user_id": user_id,
             "name": soup.find("h1").text.strip(),
             "points": int(soup.find("h2").text.strip().replace(" poeng", "")),
+            "stars": 0,
         }
 
     # Let's add their current solves
@@ -76,6 +77,7 @@ for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
     user_id = re.search(r"'/u/(.*?)'", li["onclick"]).group(1)
     points = li.find("span", class_="sum").text.strip()
     username = li.find("span", class_="navn").text.strip()
+    stars = len(li.find("span", class_="stars").find_all("img", {"alt": "Stjerne: umulig"}))
 
 
     # Initialize the user object and add it to the highscore table
@@ -84,6 +86,7 @@ for position, li in enumerate(soup.find("ol", class_="liste").find_all("li")):
         "user_id": user_id,
         "name": username,
         "points": int(points),
+        "stars": stars,
     }
     highscore.append(user)
     highscore_users.add(user_id)
@@ -104,3 +107,5 @@ with open("{}/highscore.min.json".format(DATA_PATH), "w") as f:
 
 with open("{}/highscore.json".format(DATA_PATH), "w") as f:
     json.dump(highscore, f, indent=4)
+
+print("Done saving highscore JSON files")
